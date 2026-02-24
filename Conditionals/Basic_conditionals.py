@@ -1,4 +1,4 @@
 language ='Python'
 
-if language ==
+if language == 'Python':
     print('Conditional was True')
