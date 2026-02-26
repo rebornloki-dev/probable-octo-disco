@@ -16,6 +16,7 @@ Note that all changes before 2026-02-20 were not documented.
 ### Changed
 - Reorganized file structure for better readability and "browsability."
 - Updated README to reflect the 3-year roadmap to Assembly.
+- Added a changelog to document changes
 
 ---
 
