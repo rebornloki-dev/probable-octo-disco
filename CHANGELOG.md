@@ -4,7 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project follows [Semantic Versioning](https://semver.org/).
 
-## [1.2.1.1] - 2026-02-24
+## [1.2.1.3] - 2026-03-01
+### Added
+- New `Booleans/` directory with boolean learning scripts:
+  - `Booleans/a_suspiscious_list.py` — demonstrates object identity with `is` operator.
+  - `Booleans/false_values.py` — documents Python's falsy values (False, None, 0, empty sequences/mappings).
+  - `Booleans/log_in_screen.py` — simple login example using `not` operator.
+
+### Changed
+- Updated `Conditionals/log_in_screen.py` to use `or` for checking if user is `'Admin'` OR logged in.
+
+---
+
+## [1.2.1.2] - 2026-02-24
 ### Added
 - New practice scripts and demos:
   - `Conditionals/Basic_conditionals.py` — basic conditional example.
