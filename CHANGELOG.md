@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project follows [Semantic Versioning](https://semver.org/).
 
+## [1.2.1.4] - 2026-03-02
+### Added
+- Initial implementation of number printing logic in `Loops & Iterations/intro.py`.
+
+---
+
 ## [1.2.1.3] - 2026-03-01
 ### Added
 - New `Booleans/` directory with boolean learning scripts:
