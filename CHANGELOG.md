@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project follows [Semantic Versioning](https://semver.org/).
 
-## [1.2.1.6] - 2026-04-07
+## [1.2.1.5] - 2026-04-07
+
+### Added
+
+- Added conditional logic to `Loops & Iterations/intro.py` to print 'found!' when number 3 is encountered in the loop.
+- Added educational comments to `Loops & Iterations/while-loops.py` to explain while loops, infinite loops, and the `break` statement.
 
 ### Changed
 
@@ -22,14 +27,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
   - `Dumb Stuff/haha.py` — string input and conditionals
   - `Dumb Stuff/frame_counter.py` — video analysis with OpenCV
   - `Loops & Iterations/loop.py` — nested loops
-
----
-
-## [1.2.1.5] - 2026-04-07
-
-### Added
-
-- Added conditional logic to `Loops & Iterations/intro.py` to print 'found!' when number 3 is encountered in the loop.
 
 ---
 
@@ -69,35 +66,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
   - `Practices/fakest-bank-youve-seen.py` — basic banking simulation using an `account` dictionary.
   - `Dumb Stuff/frame_counter.py` — `analyze_video` utility using OpenCV.
   - `Dumb Stuff/finalfinal.py`, `Dumb Stuff/haha.py` — small games/inputs.
+  - Added auxiliary test and practice scripts.
 
 ### Changed
 
 - README updated to describe goals, structure, and run instructions.
 - Repository reorganized into folders for clarity (Conditionals, Dictionaries, Sets & Tuples, Practices, Dumb Stuff).
+- README and CHANGELOG added/updated.
+- Reorganized files for improved discoverability.
 
 ### Fixed
 
 - Banking example: fixed withdrawal logic and PIN handling (PIN treated as string; `amount` defined before use).
-- Minor script corrections and clarity improvements across examples.
-
----
-
-## [1.2.1] - 2026-02-24
-
-### Added
-
-- Added `Practices/fakest-bank-youve-seen.py` (dictionary-based account).
-- Added auxiliary test and practice scripts.
-
-### Fixed
-
 - Resolved `NameError` in banking example where `amount` was referenced before assignment.
 - Corrected PIN comparison to treat PINs as strings to preserve leading zeros.
-
-### Changed
-
-- Reorganized files for improved discoverability.
-- README and CHANGELOG added/updated.
+- Minor script corrections and clarity improvements across examples.
 
 ---
 
