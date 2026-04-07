@@ -16,3 +16,5 @@ def days_in_month(year,month):
         return 29
     
     return month_days[month]
+
+print(days_in_month(2020,10))
