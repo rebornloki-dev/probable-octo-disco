@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project follows [Semantic Versioning](https://semver.org/).
 
+## [1.2.1.6] - 2026-04-07
+
+### Changed
+
+- Added comprehensive learning-focused comments to all Python scripts for educational reference:
+  - `Practices/1a.py` — temperature conditional logic
+  - `Practices/fakest-bank-youve-seen.py` — ATM bank system with dictionaries
+  - `Practices/practice.py` — variables and user input/output
+  - `Practices/test.py` — references vs. copies and mutability
+  - `Conditionals/log_in_screen.py` — OR operator logic
+  - `Conditionals/Basic_conditionals.py` — string comparison and if/elif/else
+  - `Booleans/a_suspiscious_list.py` — object identity with `is` operator
+  - `Booleans/log_in_screen.py` — NOT operator
+  - `Sets & Tuples/tuples.py` — tuple immutability
+  - `Dumb Stuff/finalfinal.py` — simple guessing game
+  - `Dumb Stuff/haha.py` — string input and conditionals
+  - `Dumb Stuff/frame_counter.py` — video analysis with OpenCV
+  - `Loops & Iterations/loop.py` — nested loops
+
+---
+
 ## [1.2.1.5] - 2026-04-07
 
 ### Added
