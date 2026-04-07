@@ -1,5 +1,5 @@
-def hello_func (greeting):
-    return '{} Function.'.format(greeting)
+def hello_func (greeting,name= 'You'):
+    return '{},{}'.format(greeting,name)
 
 #print(hello_func())
 print(hello_func('Hi'))
