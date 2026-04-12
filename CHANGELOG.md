@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - It wont be edited cos Github chose this time to be very polite and reach my damn copilot quota (yes i vibe code the Changelog)
 - Plsss help my copilot quota was reached
 
-## [1.2.1.8] - 2026-04-12
+## [1.2.1.6] - 2026-04-12
 
 ### Added
 
