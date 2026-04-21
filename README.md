@@ -110,7 +110,7 @@ Exemples de scripts principaux :
 
 ### Note pour Monsieur Mike et Mr Maroine
 
-- Oui, je sais que vous vous doutez que ceci est fait par IA, mais dans ce dépôt, tout est principalement humain.
+- Oui, je sais que vous vous doutez que ceci est fait par IA, mais dans ce repo, tout est principalement humain.
 - L’IA n’est utilisée que pour deux choses : commenter mon travail et m’aider quand je suis coincé.
 - Dans ce repo, la seule chose vraiment faite par IA se trouve dans `/Dumb Stuff` et s'appelle `Frame_counter`.
 - Les commentaires, les messages de commit et le changelog sont aussi aidés par l’IA, donc c’est un peu bordélique, mais c’est volontaire et humainement piloté.
@@ -121,4 +121,4 @@ Exemples de scripts principaux :
 
 ## Références
 
-- Consultez les exemples complets et le code source dans les fichiers liés ci-dessus (par ex. [Dictionaries/dictionaries.py](Dictionaries/dictionaries.py), [Dumb Stuff/frame_counter.py](Dumb%20Stuff/frame_counter.py)).
+- Consultez les exemples complets et le code source dans les fichiers liés ci-dessus (par ex. [Dictionaries/dictionaries.py](Dictionaries/dictionaries.py)).
